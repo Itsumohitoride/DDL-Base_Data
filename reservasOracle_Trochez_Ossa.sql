@@ -1,3 +1,5 @@
+--This project has been created with fiddleSql
+
 CREATE TABLE hotel ( 
   hotelNo VARCHAR(4), 
   hotelName VARCHAR(25), 
